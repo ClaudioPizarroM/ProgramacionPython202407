@@ -1,7 +1,7 @@
 # comentario de codigo 
 # los comentarios de codigo son para documentar el codigo y no se ejecutan. 
 #control + s para guardar 
-print("Hola mundo")
+#print("Hola mundo")
 
 
 #comandos de terminal
@@ -10,3 +10,8 @@ print("Hola mundo")
 #pwd para saber en que directorio estoy
 #clear limpiar la terminal
 # python hola.py para ejecutar el archivo
+
+
+saludo = "hola"
+for i in range(10): 
+    print(saludo)
